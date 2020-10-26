@@ -19,10 +19,13 @@ I was born in March 2000, Jiangxi, China. I grew up in Jindezhen, which is renow
 Research experience
 ======
 Flexible Assembly Process Simulation Based on Digital Twin
+
  *advised by Prof. Yiping Feng, Smart Factory Lab, ZJU                                             Apr. 2019 – Apr. 2020*
 
  • Built the kinematics and dynamic model of the KUKA R700 manipulator by MATLAB and created the manufacture line simulation virtual model in V-rep
+ 
  • Added force sensors on manipulators to obtain the motion parameters; used the virtual model to demonstrate the real-time motion of the manipulator 
+ 
  • Used interpolation method to make the motion planning to realize the flexible assembly process, which achieved the primary virtual-reality interaction 
 
 
