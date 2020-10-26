@@ -12,6 +12,8 @@ I'm a senior student Major in Biosystems Engineering, Zhejiang University. I'm i
 I was shortlisted for the Mitacs 2020 Summer Internship @Mitacs, but I was not able to go to Canada due to the COV-19.
 From Oct 2019 to Mar 2020, I studied at department of mechanical engineering in Technische Universität München, TUM, as an exchange student.
 I was born in March 2000, Jiangxi, China. I grew up in Jindezhen, which is renowned for its porcelain.
+
+
 Research experience
 ======
 Flexible Assembly Process Simulation Based on Digital Twin
