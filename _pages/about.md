@@ -10,7 +10,9 @@ redirect_from:
 
 I'm a senior student Major in Biosystems Engineering, Zhejiang University. I'm interested in of robotics, especially numerical analysis application and motion planning area.
 I was shortlisted for the Mitacs 2020 Summer Internship @Mitacs, but I was not able to go to Canada due to the COV-19.
+
 From Oct 2019 to Mar 2020, I studied at department of mechanical engineering in Technische Universität München, TUM, as an exchange student.
+
 I was born in March 2000, Jiangxi, China. I grew up in Jindezhen, which is renowned for its porcelain.
 
 
@@ -18,7 +20,7 @@ Research experience
 ======
 Flexible Assembly Process Simulation Based on Digital Twin
  *advised by Prof. Yiping Feng, Smart Factory Lab, ZJU                                             Apr. 2019 – Apr. 2020*
- //
+
  • Built the kinematics and dynamic model of the KUKA R700 manipulator by MATLAB and created the manufacture line simulation virtual model in V-rep
  • Added force sensors on manipulators to obtain the motion parameters; used the virtual model to demonstrate the real-time motion of the manipulator 
  • Used interpolation method to make the motion planning to realize the flexible assembly process, which achieved the primary virtual-reality interaction 
