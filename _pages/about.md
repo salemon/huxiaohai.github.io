@@ -46,4 +46,4 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R8UIxKqoQaXDgoX10e4eP4m0OESRK3n4N4Ai5RksFLM"></script>
