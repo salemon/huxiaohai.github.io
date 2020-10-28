@@ -18,7 +18,7 @@ Experience
 ======
 UAV (Unmanned Aerial Vehicle) and Gimbal Development   
 *Prof. Fei Liu, Key Laboratory of Spectroscopy Sensing, ZJU       Jul. 2020 – Sept. 2020*    
-![UAV](/images/UAV.png)   
+![UAV](/images/UAV.jpg)   
 Flexible Assembly Process Simulation Based on Digital Twin  
  *advised by Prof. Yiping Feng, Smart Factory Lab, ZJU                                             Apr. 2019 – Apr. 2020*
  •Used interpolation method with the KUKA R700 to make the motion planning to realize the flexible assembly process, which achieved the primary virtual-reality interaction. 
@@ -31,9 +31,8 @@ Competiton
 ======
 a) 2018 China Agriculture Robot Competition [link:Video@YouTube](https://www.youtube.com/watch?v=Ffg88PdIR5A)  
 •Buit a Robot for apple distinguish and harvesting，Designed the structure of robot by Solidworks; Used 3-D printer to obtain some components; Integrated a robot with motors, MCU, Sensors, Motors, Servos; Path planning, and End-effector planning
-![Agr](/images/agr2.png)    
-b) Third prize@2019 Undergraduate Students Physics Competition (Zhejiang Physical Society)
+![Agr](/images/agr2.jpg)    
+b) Third prize @2019 Undergraduate Students Physics Competition (Zhejiang Physical Society)
 
-![Editing a markdown file for a talk](/images/editing-talk.png)   
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R8UIxKqoQaXDgoX10e4eP4m0OESRK3n4N4Ai5RksFLM"></script>
