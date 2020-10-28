@@ -35,8 +35,8 @@ Competiton
 ======
 a) 2018 China Agriculture Robot Competition [link:Video@YouTube](https://www.youtube.com/watch?v=Ffg88PdIR5A)  
 •Buit a Robot for apple distinguish and harvesting，Designed the structure of robot by Solidworks; Used 3-D printer to obtain some components; Integrated a robot with motors, MCU, Sensors, Motors, Servos; Path planning, and End-effector planning
-![Agr](/images/agr2.jpg)    
+![Agr](/images/agr1.jpg)    
 b) Third prize @2019 Undergraduate Students Physics Competition (Zhejiang Physical Society)
 
-
+The profile photo was taken by my girlfriend, Frau GAO
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R8UIxKqoQaXDgoX10e4eP4m0OESRK3n4N4Ai5RksFLM"></script>
