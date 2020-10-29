@@ -16,16 +16,16 @@ I was born in March 2000, in Jiangxi, China. I grew up in [Jindezhen](https://zh
 
 Experience
 ======
-UAV (Unmanned Aerial Vehicle) and Gimbal Development   
+**UAV (Unmanned Aerial Vehicle) and Gimbal Development**   
 *Prof. Fei Liu, Key Laboratory of Spectroscopy Sensing, ZJU       Jul. 2020 – Sept. 2020* 
 
 ![UAV](/images/uav.jpg)   
 
-Flexible Assembly Process Simulation Based on Digital Twin  
+**Flexible Assembly Process Simulation Based on Digital Twin**  
  *advised by Prof. Yiping Feng, Smart Factory Lab, ZJU                                             Apr. 2019 – Apr. 2020*
  •Used interpolation method with the KUKA R700 to make the motion planning to realize the flexible assembly process, which achieved the primary virtual-reality interaction. 
 
-Wheeled Robot for Smooth Deliver [link: Video@YouTube](https://www.youtube.com/watch?v=Ffg88PdIR5A)  
+**Wheeled Robot for Smooth Delivery** [link: Video@YouTube](https://www.youtube.com/watch?v=Ffg88PdIR5A)  
 *Prof. Chunlin Zhou, Robotics Research Center, ZJU                                                                Feb. 2019 –Jul. 2019*  
 •Built a robot based on the Dani Robot differential wheeled robot platform; The robot features the function of smoothly transporting dishes to the designated location in a structured environment. 
 
