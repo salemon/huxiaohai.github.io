@@ -24,6 +24,7 @@ Experience
 **Flexible Assembly Process Simulation Based on Digital Twin**  
  *advised by Prof. Yiping Feng, Smart Factory Lab, ZJU                                             Apr. 2019 – Apr. 2020*
  •Used interpolation method with the KUKA R700 to make the motion planning to realize the flexible assembly process, which achieved the primary virtual-reality interaction. 
+![kuka](/images/kuka.png)  
 
 **Wheeled Robot for Smooth Delivery** [link: Video@YouTube](https://www.youtube.com/watch?v=Ffg88PdIR5A)  
 *Prof. Chunlin Zhou, Robotics Research Center, ZJU                                                                Feb. 2019 –Jul. 2019*  
@@ -35,7 +36,8 @@ Competiton
 ======
 a) 2018 China Agriculture Robot Competition [link:Video@YouTube](https://www.youtube.com/watch?v=Ffg88PdIR5A)  
 •Buit a Robot for apple distinguish and harvesting，Designed the structure of robot by Solidworks; Used 3-D printer to obtain some components; Integrated a robot with motors, MCU, Sensors, Motors, Servos; Path planning, and End-effector planning
-![Agr](/images/agr1.jpg)    
+![Agr](/images/agr1.jpg)  
+
 b) Third prize @2019 Undergraduate Students Physics Competition (Zhejiang Physical Society)
 
 The profile photo was taken by my girlfriend, Frau GAO
