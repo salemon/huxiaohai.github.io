@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xiaohai-hu-26467b1a1/"
+  linkedin         : "xiaohai-hu-26467b1a1"
   #orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
