@@ -102,8 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="de_DE" data-type="vertical" data-theme="light" data-vanity="xiaohai-hu-26467b1a1"><a class="LI-simple-link" href='https://cn.linkedin.com/in/xiaohai-hu-26467b1a1?trk=profile-badge'>Xiaohai HU</a></div>
-  #orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "xiaohai-hu-26467b1a1"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -309,4 +308,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
